@@ -11,7 +11,7 @@ This repository provides links to various Remote Sensing (RS) datasets used for 
 | RESISC45 | [Official](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html) |
 | NASC-TG2 | [Zenodo](https://zenodo.org/record/3871968) |
 | WHU-RS19 | [Official](http://www.xinhua-fluid.com/people/yangwen/WHU-RS19.html) |
-| EuroSAT | [GitHub](https://github.com/phelber/eurosat) / [Official](https://github.com/phelber/EuroSAT) |
+| EuroSAT | [GitHub](https://github.com/phelber/EuroSAT) |
 | fMoW | [Official](https://github.com/fMoW/dataset) |
 
 ## Visual Grounding
